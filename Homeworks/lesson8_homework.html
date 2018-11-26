@@ -75,12 +75,12 @@ returnObject("Seda", "Gharagedyan", "female", 30)
 // TASK4
 function square(a) {
 
-    if (typeof(a) == "number") {
+    if (typeof(a) == "number" && a != 0) {
 
         return a = a * a
-    }
+    } else return "inserted data is not a number"
 }
 
-console.log(square(10))
+console.log(square(-10))
 </script>
 
