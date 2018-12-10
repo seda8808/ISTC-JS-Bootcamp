@@ -1,4 +1,4 @@
-<script>
+
 
 //TASK1
 function roundNumber (par1, par2) {
@@ -21,4 +21,3 @@ function checkNaturalNumber (num) {
 
 } 
 checkNaturalNumber(10.33)
-</script>

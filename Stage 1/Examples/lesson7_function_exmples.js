@@ -1,5 +1,5 @@
-<script>
-    /* function go(name, age) {
+
+   function go(name, age) {
         alert(name);
         alert(age);
     }
@@ -25,16 +25,11 @@
     
     makeAwesome(); 
     
-    function flower (x, y, petals) {
-    ellipse(x, y, 10, 10);
-    for(var i = 0; i < petals; i++)
     
-    
-    }*/
     
     function milesToKm(miles){
         var km = miles * 1.6; 
         console.log(km)
     }
     milesToKm(20)
-    </script>
+  

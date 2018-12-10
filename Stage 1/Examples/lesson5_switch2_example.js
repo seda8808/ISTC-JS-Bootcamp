@@ -1,4 +1,4 @@
-<script>
+
 
 let a = 1 + "bla";
 
@@ -17,5 +17,3 @@ switch (a) {
 
 }
 console.log(a)
-
-</script>

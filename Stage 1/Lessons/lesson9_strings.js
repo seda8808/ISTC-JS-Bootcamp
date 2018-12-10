@@ -1,4 +1,4 @@
-<script>
+
 var y = "blue whale";
 y.includes("Blue");
 console.log(y.includes("Blue"))
@@ -22,5 +22,5 @@ for (str in a) {
 
 }
 string("Wednesday is a good day")
-</script>
+
 

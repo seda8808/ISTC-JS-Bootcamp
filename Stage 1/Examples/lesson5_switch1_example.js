@@ -1,4 +1,4 @@
-    <script>
+
     var day;
 
 switch (new Date().getDay() ) {
@@ -27,7 +27,4 @@ switch (new Date().getDay() ) {
 
 }
 console.log("Today is " + day);
-    </script>
-    
-</body>
-</html>
+   

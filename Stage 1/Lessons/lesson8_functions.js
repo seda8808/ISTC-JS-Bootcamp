@@ -1,16 +1,6 @@
-<script>
 
-//local variable
-var x = 5;
 
-function myFunction() {
-var y = 8;
 
-return y
-
-}
-
-console.log(y);
 
 //self invoked
 (function myFunction1() {
@@ -66,4 +56,3 @@ function Person (p1, p2, p3) {
 
 console.log(Person("Seda", "Gharagedyan", 30))
 
-</script>

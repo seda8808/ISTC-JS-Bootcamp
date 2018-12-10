@@ -1,14 +1,3 @@
-<script>
-//let user = { name: "John" };
-//let admin = { name: "Admin" };
-
-//function sayHi() {
-  //alert( this.name );
-
-//}
-
-//console.log(sayHi())
-
 
 
 //assign
@@ -41,46 +30,36 @@ me.printIntroduction();
 
 
 //entries
-const object1 = { foo: 'bar', baz: 42 };
-console.log(Object.entries(object1)[1]);
+const object3 = { foo: 'bar', baz: 42 };
+console.log(Object.entries(object3)[1]);
 // expected output: Array ["baz", 42]
 
-const object2 = { 0: 'a', 1: 'b', 2: 'c' };
-console.log(Object.entries(object2)[2]);
+const object4 = { 0: 'a', 1: 'b', 2: 'c' };
+console.log(Object.entries(object4)[2]);
 // expected output: Array ["2", "c"]
 
-const result = Object.entries(object2).sort((a, b) => a - b);
+const result = Object.entries(object4).sort((a, b) => a - b);
 console.log(Object.entries(result)[1]);
 
 
 
 //freeze
-const object1 = {
+const object5 = {
   property1: 42
 };
 
-const object2 = Object.freeze(object1);
+const object6 = Object.freeze(object5);
 
-object2.property1 = 33;
+object6.property1 = 33;
 // Throws an error in strict mode
 
-console.log(object2.property1);
-
-
-
-//fromentries
-const entries = new Map([
-  ['foo', 'bar'],
-  ['baz', 42]
-]);
-
-const obj = Object.fromEntries(entries);
-
-console.log(obj);
+console.log(object6.property1);
 
 
 
 
 
 
-</script>
+
+
+

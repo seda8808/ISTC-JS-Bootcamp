@@ -1,4 +1,4 @@
-<script>
+
 //TASK1_Option1
 function calculator (par1, par2, par3) {
              switch (par2){
@@ -73,4 +73,3 @@ function type (p1, p2, p3, p4) {
 } 
 
 type(3, "Hello ", 4, "World")
-</script>

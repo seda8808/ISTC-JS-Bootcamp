@@ -1,4 +1,4 @@
-<script>
+
 // we can loop through object only by for in
 
 var obj = {
@@ -56,4 +56,3 @@ y.p1 = "text1"
 y.p2 = "text2"
 
 console.log(Object.keys(y), Object.values(y));
-</script>

@@ -1,4 +1,4 @@
-<script>
+
 //TASK1
 function primeNumber(num) {
 
@@ -82,5 +82,5 @@ function square(a) {
 }
 
 console.log(square(-10))
-</script>
+
 

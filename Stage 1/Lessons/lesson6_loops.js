@@ -1,4 +1,4 @@
-<script>
+
 
 for (var i = 0; i <= 5; ++i) {
     console.log("This is loop number " + i)
@@ -27,4 +27,3 @@ while (y == "Seda") {
 };
 
 
-</script>

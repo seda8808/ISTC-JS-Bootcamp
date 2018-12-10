@@ -1,4 +1,4 @@
-<script>
+
 var morning = 12;
 var midday = 12;
 var afternoon = 13;
@@ -80,4 +80,3 @@ if (participant.age >= 18) {
     alert ("Participant can not attend the conference")
     }
 
-</script>

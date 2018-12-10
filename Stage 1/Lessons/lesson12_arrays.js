@@ -1,4 +1,4 @@
-<script>
+
 var fruits = ["apple", "banana", "kiwi"];
 
 fruits.toString();
@@ -55,4 +55,4 @@ points.sort(function(a, b) {return a - b}); //callback function
 console.log(points);
 
 
-</script>
+

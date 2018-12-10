@@ -1,4 +1,4 @@
-<script>
+
 
 //TASK1
 function convertToUpperCase(string) {
@@ -48,4 +48,3 @@ function countOfVowels(text) {
 countOfVowels("hello, world - world, hello")
 
 
-</script>

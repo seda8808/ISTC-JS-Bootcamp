@@ -1,4 +1,4 @@
-<script>
+
 //TASK1
 var a = {
     prop1: 10,
@@ -53,4 +53,3 @@ dailySales.monthlySales = function() {return 30 * this.productSum()};
 console.log(dailySales.productSum(), dailySales.productAverageQty(), dailySales.monthlySales());
 
 
-</script>

@@ -1,6 +1,6 @@
-<script>
 
-/* for(var i = 0;i <= 100; i++){
+
+for(var i = 0;i <= 100; i++){
 
    if(i%5==0){
        continue;
@@ -9,7 +9,7 @@
        var y= i+2;
 }
 console.log(y);
-}; */
+}; 
 
 function product (parameter1, parameter2) {
 
@@ -32,4 +32,3 @@ return number1 * number2;
 
 console.log(multiply(4));
 
-</script>
