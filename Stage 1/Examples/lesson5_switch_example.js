@@ -10,8 +10,8 @@ switch (new Date().getDay() ) {
     break;
     case 3:
     day = "Wednesday";
-    break;
     case 4:
+    break;
     day = "Thursday";
     break;
     case 5:
